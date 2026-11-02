@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" role="img" aria-label="MindMesh logo" shape-rendering="geometricPrecision">
+  <defs>
+    <linearGradient id="mindmesh-mark" x1="8" y1="8" x2="56" y2="56" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#67e8f9"/>
+      <stop offset=".5" stop-color="#818cf8"/>
+      <stop offset="1" stop-color="#c4b5fd"/>
+    </linearGradient>
+  </defs>
+  <path d="M8 56V8L32 48L56 8V56" stroke="url(#mindmesh-mark)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="url(#mindmesh-mark)">
+    <circle cx="8" cy="56" r="3"/>
+    <circle cx="8" cy="8" r="3"/>
+    <circle cx="32" cy="48" r="3"/>
+    <circle cx="56" cy="8" r="3"/>
+    <circle cx="56" cy="56" r="3"/>
+  </g>
+</svg>

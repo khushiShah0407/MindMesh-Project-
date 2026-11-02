@@ -1,0 +1,6 @@
+{
+  "name": "MindMesh",
+  "description": "Capture, organize, remember, search, and connect knowledge with an interactive neural graph, hybrid search, voice notes, and meeting intelligence.",
+  "requestFramePermissions": ["microphone", "geolocation"],
+  "majorCapabilities": []
+}
